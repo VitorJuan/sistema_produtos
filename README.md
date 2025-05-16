@@ -9,10 +9,10 @@ Possuir compilador C em sua maquina
 
 ### Linux
 ```
-./build_run.sh
+./build_run_linux.sh
 ```
 
 ### Windows
 ```
-./build_run.ps1
+powershell build_run_windows.ps1
 ```
