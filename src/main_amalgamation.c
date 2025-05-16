@@ -4,6 +4,8 @@
 
 #include <string.h>
 
+//This is a test for the push
+
 /*
 Projeto que cria um sistema para poder criar, armazenar, comprar e gerenciar produtos de mercado, simulando uma base de dados para um mercado
 */
@@ -237,7 +239,7 @@ void deleteProduct() {
 
     printf("Buscando o produto na base de dados\n");
     for (int x = 0; x < pd_db->index; x++) {
-        
+
     }
 
 }
