@@ -5,11 +5,7 @@ Sistema desenvolvido na aula de laboratório de programação
 
 Possuir compilador C em sua maquina
 
-```
-Dar exemplos
-```
-
-### Instalação
+### Compilar e Rodar
 
 Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
 
